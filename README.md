@@ -1,9 +1,9 @@
 [![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=17732102)
 # :wave: The Basics of GitHub 
 
-NAME: (Your name here)
+NAME: Rayne Wilson
 
-S#: (Your S# here)
+S#: S#01326336
 
 ## 🤓 Course overview and learning outcomes 
 
